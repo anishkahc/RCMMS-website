@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+twitter.com	TRUE	/	FALSE	1999999999	external_referer	ZLhHHTiegr+/snmHgLDPXbACPL3xMToG|0"
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	TB-ZTON3sWM
+.youtube.com	TRUE	/	FALSE	1999999999	PREF	f1=50000000
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	cYyuB11ojuA
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0wIM53U4mIKcVX9fy..BYnyeA.jq.AAA.0.0.BYnyeA.AWV19ux3
+www.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	T3HcmsgMes8Na8Adv06Z7pB3Bl1Imdt2
+www.instagram.com	TRUE	/	FALSE	1999999999	mid	WJ8nhgAEAAEvRYzwAToToimOerC_
+.twitter.com	TRUE	/	FALSE	1999999999	m5	off
+mobile.twitter.com	TRUE	/	FALSE	1999999999	_mobile_sess	BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7ADoQX2NzcmZfdG9rZW4iJTYxYjI2YzUyMGU1ODBiNDNjNWZjMzAwYTFjYjQzOTcx--30edbf92bc204f904e1d54dbfc5a972567c7dacf
+.twitter.com	TRUE	/	FALSE	1999999999	_mobile_sess	BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7ADoQX2NzcmZfdG9rZW4iJTYxYjI2YzUyMGU1ODBiNDNjNWZjMzAwYTFjYjQzOTcx--30edbf92bc204f904e1d54dbfc5a972567c7dacf
+.twitter.com	TRUE	/	FALSE	1999999999	d	32
+.twitter.com	TRUE	/	FALSE	1999999999	mobile_metrics_token	148682558527529058
+.twitter.com	TRUE	/	FALSE	1999999999	zrca	5
+.twitter.com	TRUE	/	FALSE	1999999999	fm	0
+.twitter.com	TRUE	/	FALSE	1999999999	_twitter_sess	BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCC%252Bwti1aAToMY3NyZl9p%250AZCIlNTAxYmNkMDlmMzFkMjVjNDlhMTNjZTRiNDI1NDdlOTg6B2lkIiVmYjhj%250AYWE1YWExNjZkNzEyYTA4MmNkZmQxNmQzNmVmZA%253D%253D--204497eb06cbacc7acf1660410fccc949b375d4a
+twitter.com	TRUE	/	FALSE	1999999999	lang	pt
+.twitter.com	TRUE	/	FALSE	1999999999	ct0	770d37e6cbf3bfbbc333fff36e537f72
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A148682563179031014
+
